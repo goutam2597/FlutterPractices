@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/login_reg_profile/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login_reg_profile/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login_reg_profile/build" />
+      <excludeFolder url="file://$MODULE_DIR$/login_signup_data/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/login_signup_data/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/login_signup_data/build" />
+      <excludeFolder url="file://$MODULE_DIR$/medicine_reminder-master/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/medicine_reminder-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/medicine_reminder-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/medicine_reminder/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/medicine_reminder/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/medicine_reminder/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
